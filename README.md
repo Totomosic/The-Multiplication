@@ -1,2 +1,4 @@
-##The Multiplication<br>
-2D Game made in python2 using pygame loosely based on The Division
+#The Multiplication
+2D Game made in Python2 with pygame.<br>
+Loosely based off The Division.<br>
+Created in 2015
